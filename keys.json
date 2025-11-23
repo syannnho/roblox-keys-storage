@@ -7,14 +7,5 @@
     "expiresAt": "2025-11-23T17:46:43.352Z",
     "renewedAt": "2025-11-23T14:45:50.036Z",
     "renewCount": 1
-  },
-  {
-    "key": "D789F25A297502C5C343BE5DD893F8CA",
-    "username": "kimhunwoe",
-    "duration": "1",
-    "createdAt": "2025-11-23T15:00:36.990Z",
-    "expiresAt": "2025-11-23T16:00:36.800Z",
-    "renewCount": 0,
-    "lastRenewedAt": null
   }
 ]
