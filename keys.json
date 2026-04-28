@@ -7,5 +7,14 @@
     "expiresAt": null,
     "renewCount": 0,
     "lastRenewedAt": null
+  },
+  {
+    "key": "288F4397117839AF740C29F4A7646405",
+    "username": "dikaa",
+    "duration": "permanent",
+    "createdAt": "2026-04-28T13:45:43.635Z",
+    "expiresAt": null,
+    "renewCount": 0,
+    "lastRenewedAt": null
   }
 ]
