@@ -25,5 +25,14 @@
     "expiresAt": null,
     "renewCount": 0,
     "lastRenewedAt": null
+  },
+  {
+    "key": "F475A689C551BF70C30201681CE4B42C",
+    "username": "hxzriqqq",
+    "duration": "permanent",
+    "createdAt": "2026-06-05T19:55:51.237Z",
+    "expiresAt": null,
+    "renewCount": 0,
+    "lastRenewedAt": null
   }
 ]
